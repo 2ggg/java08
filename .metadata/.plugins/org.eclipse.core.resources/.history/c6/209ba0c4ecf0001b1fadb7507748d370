@@ -1,0 +1,17 @@
+package day06_while;
+
+public class Ex06 {
+	public static void main(String[] args) {
+		String str= "가나다라";
+		String str2= "마바사아";
+		System.out.println(str.length());
+		System.out.println(str2.length());
+		System.out.println(str==str2);
+		System.out.println(str.equals(str2));
+		System.out.println(str2.equals(str));
+		
+		String string = null;
+		
+		
+	}
+}

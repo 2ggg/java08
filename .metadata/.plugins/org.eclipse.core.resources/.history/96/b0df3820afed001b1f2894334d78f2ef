@@ -1,0 +1,16 @@
+package day02_variable;
+
+public class Ex01 {
+
+	public static void main(String[] args) {
+		/*
+		 변수 : 데이터 저장 공간
+		 변수 작성 방법
+		 - 자료형(type) 변수명;
+		 - 자료형 변수명 = 값;
+		 
+		 */
+
+	}
+
+}

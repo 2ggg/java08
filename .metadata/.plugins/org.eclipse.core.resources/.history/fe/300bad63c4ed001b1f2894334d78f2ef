@@ -1,0 +1,9 @@
+package day02_variable;
+
+public class Ex05 {
+	public static void main(String[] args) {
+		final int i = 100;
+		i = 200; //final이 붙게되면 값 수정 불가
+		System.out.println(i);
+	}
+}

@@ -1,0 +1,15 @@
+package Juhee0730;
+
+public class Q03 {
+/*
+*****
+ ***
+  *
+ ***
+*****
+모래시계 형태로 만들기
+ */
+	public static void main(String[] args) {
+		
+	}
+}

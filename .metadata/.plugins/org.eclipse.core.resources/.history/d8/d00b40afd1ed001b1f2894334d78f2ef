@@ -1,0 +1,16 @@
+package day02_variable;
+
+public class Q02 {
+	private void rep() {
+		for(int i=0; i<=10; i++) {
+			System.out.print("=");
+		}
+		System.out.println();
+	}
+	public static void main(String[] args) {
+		Q02 q02 = new Q02();
+		q02.rep();
+		
+		
+	}
+}

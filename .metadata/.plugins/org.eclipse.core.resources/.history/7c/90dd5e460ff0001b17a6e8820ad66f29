@@ -1,0 +1,21 @@
+package day05_loop;
+
+public class Q01 {
+	public static void main(String[] args) {
+		///hello 4번 출력
+		for(int i=1; i<=4; i++) {
+			System.out.println("hello");
+		}
+		
+		///1~100까지 합 중 그 합이 528일때 i 값 출력
+		int sum=0;
+		for(int i=1; i<=100; i++) {
+			sum+=i;
+			System.out.println(sum+"/"+i);
+			if (sum==528) {
+				
+			}
+		}
+		
+	}
+}

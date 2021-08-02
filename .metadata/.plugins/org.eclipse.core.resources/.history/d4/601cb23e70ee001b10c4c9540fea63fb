@@ -1,0 +1,17 @@
+package day03_operator;
+
+public class Ex01_op {
+
+	public static void main(String[] args) {
+		/*
+		 /(나누기) : 정수 / 정수 = 정수(몫)
+		 	-실수 / 정수 = 실수
+		 %(mod) : 정수 % 정수 = 나머지
+		 	10/3 = 3
+		 	10%3 = 1
+		 
+		 */
+
+	}
+
+}

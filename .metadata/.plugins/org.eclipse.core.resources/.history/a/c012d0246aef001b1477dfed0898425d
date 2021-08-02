@@ -1,0 +1,10 @@
+package day04_If;
+
+import java.util.Scanner;
+
+public class Q02 {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+	}
+}

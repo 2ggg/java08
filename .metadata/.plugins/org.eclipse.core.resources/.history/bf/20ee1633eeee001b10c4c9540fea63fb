@@ -1,0 +1,24 @@
+package day03_if;
+
+import java.util.Scanner;
+
+public class Q03 {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("세 수 입력:");
+		int a,b,c;
+		a = scanner.nextInt();
+		b = scanner.nextInt();
+		c = scanner.nextInt();
+		System.out.printf("a=%d, b=%d, c=%d", a,b,c);
+		
+		if(a<b) {
+			int max = b;
+		}else if(a<c) {
+			int max = c;
+		}
+		
+		
+	}
+}

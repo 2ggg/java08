@@ -1,0 +1,15 @@
+package day03_operator;
+
+import java.util.Scanner;
+
+public class Q02 {
+private void result(int num) {
+	System.out.println(num+"="+rer);
+}
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("¼ö ÀÔ·Â:");
+		int a = scanner.nextInt();
+		
+	}
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.dtm.ref.DTMDefaultBaseIterators.FollowingIterator"/>
+    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_en_RW"/>
+    <fullyQualifiedTypeName name="day01.Q01"/>
+    <fullyQualifiedTypeName name="jdk.internal.icu.util.CodePointTrie.Fast16"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="sun.awt.RepaintArea"/>
+    <fullyQualifiedTypeName name="day02_variable.Q02"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.reader.impl.history.DefaultHistory"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="day03_operator.Q01"/>
+    <fullyQualifiedTypeName name="jdk.internal.util.xml.impl.Input"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="com.sun.net.httpserver.Authenticator.Result"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
+    <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.taglets.SummaryTaglet"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat.Style"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.sun.jndi.toolkit.ctx.Continuation"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_ar_MR"/>
+</qualifiedTypeNameHistroy>

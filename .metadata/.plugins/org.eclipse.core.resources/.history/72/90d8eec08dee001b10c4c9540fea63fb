@@ -1,0 +1,14 @@
+package day03_if;
+
+public class Ex08_if {
+	public static void main(String[] args) {
+		/*
+		 제어문 : 프로그램 흐름 제어
+		 if(조건식){
+		 	참인 경우 실행
+		 }else{
+		 	거짓일 경우 실행
+		 }
+		 */
+	}
+}

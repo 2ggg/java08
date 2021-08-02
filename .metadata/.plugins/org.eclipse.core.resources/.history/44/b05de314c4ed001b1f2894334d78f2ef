@@ -1,0 +1,9 @@
+package day02_variable;
+
+public class Ex05 {
+	public static void main(String[] args) {
+		int i = 100;
+		i = 200l
+				
+	}
+}

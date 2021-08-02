@@ -1,0 +1,15 @@
+package day07_Array;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Ex05 {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		ArrayList food = new ArrayList();
+		food.add("설탕");
+		food.add("소금");
+		food.add("라면");
+		food.add("계란");
+	}
+}
