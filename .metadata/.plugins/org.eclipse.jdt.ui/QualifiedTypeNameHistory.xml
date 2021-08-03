@@ -11,16 +11,23 @@
     <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
     <fullyQualifiedTypeName name="day03_operator.Q01"/>
     <fullyQualifiedTypeName name="jdk.internal.util.xml.impl.Input"/>
-    <fullyQualifiedTypeName name="java.lang.Number"/>
     <fullyQualifiedTypeName name="com.sun.net.httpserver.Authenticator.Result"/>
     <fullyQualifiedTypeName name="java.lang.Package"/>
-    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
     <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.taglets.SummaryTaglet"/>
     <fullyQualifiedTypeName name="java.text.NumberFormat.Style"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.sun.jndi.toolkit.ctx.Continuation"/>
+    <fullyQualifiedTypeName name="sun.awt.geom.AreaOp.AddOp"/>
+    <fullyQualifiedTypeName name="sun.java2d.marlin.DMarlinRenderingEngine"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
+    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_ar_MR"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_ar_MR"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.Select"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
 </qualifiedTypeNameHistroy>
