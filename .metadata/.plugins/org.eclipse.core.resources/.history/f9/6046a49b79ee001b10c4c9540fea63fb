@@ -1,9 +1,0 @@
-package day03_operator;
-
-public class Ex05_op {
-	public static void main(String[] args) {
-		/*
-		 a++/++a : 출력 후 a+1 / a+1 하고 출력
-		 */
-	}
-}

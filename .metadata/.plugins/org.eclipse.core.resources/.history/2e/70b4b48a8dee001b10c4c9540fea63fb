@@ -1,7 +1,0 @@
-package day03_if;
-
-public class Ex08_if {
-	public static void main(String[] args) {
-		
-	}
-}

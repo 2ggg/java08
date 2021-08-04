@@ -40,8 +40,29 @@ public class Test2 {
 		//단어 첫번째 글자만 대문자, 나머지는 소문자로
 		str = "tESt sTring   change     first";
 		str= str.toLowerCase();
+		String[] arr2 = str.split("\\s+"); //하나 이상의 공백을 기준으로 자른다
+		String str2=null;
+		
+		for(int i=0; i<arr2.length; i++) {
+			System.out.println(arr2[i]);
+		}
+		
+		for(int i=0; i<arr2.length; i++) {
+			if(arr2[i].charAt(0)>='a' && arr2[i].charAt(0)<='z') {
+				str2 += (char)(arr2[i].charAt(0)-32);
+			}else {
+				str2 += (char)(arr2[i].charAt(0));
+			}
+		}
+		System.out.println(str2);
+		
+		
+		/*
+		
+		
+		
 		System.out.println(str);
-		String[] arr3 = str.split(" ");
+		
 		ArrayList arr4 = new ArrayList();
 		
 		for(int i=0; i < arr3.length; i++) {
@@ -54,7 +75,7 @@ public class Test2 {
 			System.out.println(arr4);
 			
 		}
-		
+		*/
 		
 		
 		
