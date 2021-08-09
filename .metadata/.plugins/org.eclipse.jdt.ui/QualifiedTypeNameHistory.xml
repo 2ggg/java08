@@ -33,18 +33,23 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="test.Mytest"/>
     <fullyQualifiedTypeName name="javax.print.attribute.standard.PrinterMoreInfoManufacturer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="day08_set_map_string.Ex07_string"/>
     <fullyQualifiedTypeName name="org.apache.commons.lang3.text.StrTokenizer"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.Iterators"/>
     <fullyQualifiedTypeName name="java.lang.Package"/>
     <fullyQualifiedTypeName name="com.sun.source.tree.WhileLoopTree"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
     <fullyQualifiedTypeName name="sun.nio.cs.ext.ISCII91"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="day09_method.Ex01"/>
+    <fullyQualifiedTypeName name="day09_method.Ex02"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.VoidType"/>
+    <fullyQualifiedTypeName name="sun.management.BaseOperatingSystemImpl"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="day09_method.Test1"/>
 </qualifiedTypeNameHistroy>

@@ -38,14 +38,23 @@ public int 배수3(int n) {
 	}
 	return 0;
 }
-public void 절대값(int n) {
-	
-}
+
 public void 소수판별(int n) {
 	
 }
+public int 절대값(int n) {
+	if(n<0) {
+		n=n*(-1);
+		return n;
+	}
+	return n;
+}
 public void 거꾸로출력(int n) {
-	
+	while(true) {
+		if(n%10<10) {
+			
+		}
+	}
 }
 
 
