@@ -32,8 +32,6 @@ public class GameVar {
 				System.out.println("잘못 입력하셨습니다.");
 			}
 		}
-		
-		
 	}
 	public int random() {
 		ran = (int)(Math.random()*100);
@@ -54,7 +52,7 @@ public class GameVar {
 				System.out.println("Up");
 				i++;
 			}else {
-				System.out.println("맞췄습니다!");
+				System.out.println(i+"번 만에 맞췄습니다!");
 				if(i<max) {
 					max=i;
 				}
